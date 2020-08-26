@@ -1,0 +1,70 @@
+<!DOCTYPE>
+<html>
+<head>
+ <title> Chinmay </title>
+<style>
+img{
+     border-radius : 100%;
+     text-align:center;
+    }
+table{
+       alignc:right;
+     }
+</style>
+</head>
+<body>
+<div>
+<table>
+<th>
+</th>
+<th> </th>
+<tr>
+<td><img src="C:\Users\lenovo\Pictures\Mobile photos\Instagram\IMG-20200324-WA0014 (2).jpg" alt="Avtar" style="width:100px" class="center" ></td>
+</tr>
+<tr>
+<td><b>Chinmay Prashant Mulay</td>
+</tr>
+<tr>
+<td>Age : 17</td>
+</tr>
+ </tr>
+<tr>
+<td><b>Computer Scince Student</b> at <b>Pimpri Chinchwad Poytecnic</b></td>
+</tr>
+</div>
+</table>
+<hr>
+<div>
+ <h3> Hobbies: </h3>
+<ul>
+<li>Basketball</li>
+<li>Console Games</li>
+<li>Coin Collection</li>
+</ul>
+</div>
+<hr>
+<div>
+<h3>Skills :</h3><ul>
+<li>
+<b>Game Developement and Linux</b>
+</ul>
+<table align="center">
+<tr>
+<th><b>GameDev</b></th>
+<th>                  .</th>
+<th><b>Linux</b></th>
+</tr>
+<tr>
+<td>Unity</td>
+<td>Basic Linux Commands</td>
+</tr>
+<tr>
+<td>C#</td>
+<td>BruteForce Attack<td>
+</tr>
+</table>
+
+
+</div>
+</body>
+</html>
